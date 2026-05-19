@@ -1,0 +1,18 @@
+# Maven build
+target/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# temp
+*.tmp
